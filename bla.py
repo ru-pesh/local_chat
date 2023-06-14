@@ -1,6 +1,6 @@
 import threading
 import os
-#four functions are created for better performance and under
+#four functions are created for better performance and understandings.
 def wr1():
     global a
     global chat
