@@ -1,6 +1,7 @@
 import threading
 import os
-#four functions are created for better performance and understandings
+#four functions are created for better performance and understandings.
+#below function (wr1) is used to write in a file.
 def wr1():
     global a
     global chat
