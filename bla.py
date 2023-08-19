@@ -31,7 +31,7 @@ def write():
 def check():
     chk1()
 
-#MAIN COD
+#MAIN C
 print('\t\t\t\twelcome to chat')
 f=open('chat.txt','a+')
 g=open('chat2.txt','a+')
