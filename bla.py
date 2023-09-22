@@ -1,6 +1,6 @@
 import threading
 import os
-#four functions are created for better performance and ustandings
+#four functions are created for better performance and unstandings
 #below function (wr1) is used to write in a files.
 def wr1():
     global a
