@@ -1,4 +1,4 @@
-import thr
+import threa
 import os
 #four functions are created for better performance and understandings
 #below function (wr1) is used to write in a files.
