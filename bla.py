@@ -10,7 +10,7 @@ def wr1():
     ful_chat=a+': '+chat+'\n'
     f.write(ful_chat)
     f.close()
-#
+#good
 def chk1():
     while True:
         m=open('chat2.txt','r')
