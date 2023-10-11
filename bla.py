@@ -8,7 +8,7 @@ def wr1():
     f= open ('chat.txt','a+')
     chat= input('enter msg\n')
     ful_chat=a+': '+chat+'\n'
-    f.write(ful_ch
+    f.write(ful_chat)
     f.close()
 #good
 def chk1():
