@@ -4,7 +4,7 @@ import os
 #below function (wr1) is used to write in a files.
 def wr1():
     global a
-    global chat
+    global c
     f= open ('chat.txt','a+')
     chat= input('enter msg\n')
     ful_chat=a+': '+chat+'\n'
